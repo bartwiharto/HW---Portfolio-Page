@@ -1,0 +1,18 @@
+h1 {
+	color: white;
+	font-family: 'Titillium Web', sans-serif;
+	text-align: right;
+}
+
+body {
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+h6 {
+	font-family: 'Padauk', sans-serif;
+	color: white;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
